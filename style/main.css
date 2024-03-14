@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: box ;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 15 px;
+}
+
+.red{
+ background-color: red;
+ width: 980px;
+ height: 200px;
+ margin-left: 620px;
+}
+
+.green{
+    background-color: rgb(33, 237, 33);
+    width: 980px;
+    margin-left: 620px;
+    height: 50px;
+}
+.box{
+    display: flex;
+}
+
+.blue{
+    background-color: rgb(17, 0, 255);
+    width: 180px;
+    margin-left: 620px;
+    height: 602px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 600px;
+    margin-left: 1px;
+    height: 602px;
+}
+
+.aqua{
+    background-color: aqua;
+    width: 199px;
+    margin-left: 1px;
+    height: 602px;
+}
+
+.orange{
+    background-color: chocolate;
+    width: 980px;
+    margin-left: 620px;
+    height: 200px;
+}
